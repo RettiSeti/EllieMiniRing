@@ -36,7 +36,9 @@ I was not the only person involved in this project, there were many people helpi
 
 # Bonus
 
-While I was working on painting these, Bo started a stream which turned into him watching a 10 hour video of paint drying, which turned out to be a loop. He then mentioned he would watch it if anyone wanted to record a real video of paint drying for 10 hours. (clip of him saying it below) Who would possibly be stupid enough to spend their time doing that?
+While I was working on painting these, Bo started a stream which turned into him watching a 10 hour video of paint drying, which turned out to be a loop. He then mentioned he would watch it if anyone wanted to record a real video of paint drying for 10 hours. (clip of him saying it below) 
+
+Who would possibly be stupid enough to spend their time doing that?
 
 [![Youtube video of 10 hours of non-stop paint drying action](https://img.youtube.com/vi/_VaebaIGD1E/0.jpg)](https://www.youtube.com/watch?v=_VaebaIGD1E)
 
