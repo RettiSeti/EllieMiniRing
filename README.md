@@ -3,7 +3,7 @@ A collection of spinner ring and enamel pin designs based on Ellie_Minibot and Y
 
 ![A picture of each of the four charm designs displayed, with one put into a ring](/Images/All_Ring_Designs.webp)
 
-![A demo video of the rings as well as a small showcase of all the ones I have completed so far](https://www.youtube.com/watch?v=qINn5rkj6YU)
+[A demo video of the rings as well as a small showcase of all the ones I have completed so far](https://www.youtube.com/watch?v=qINn5rkj6YU)
 
 # Making Your Own
 
