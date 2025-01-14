@@ -3,6 +3,8 @@ A collection of spinner ring and enamel pin designs based on Ellie_Minibot and Y
 
 ![A picture of each of the four charm designs displayed, with one put into a ring](/Images/All_Ring_Designs.webp)
 
+![A demo video of the rings as well as a small showcase of all the ones I have completed so far](<iframe width="560" height="315" src="https://www.youtube.com/embed/qINn5rkj6YU?si=rROhzs6cZjdxGD34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+
 # Making Your Own
 
 The versions with a blank back are for attaching a common pin backer to them, whereas the versions with a post on the back are for inserting into a spinner ring. There are no readily avaliable blank spinner rings so you have to buy a pre-finished one, remove the existing charm, and insert the new one, securing it with a press fit or glue. 
